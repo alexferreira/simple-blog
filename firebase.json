@@ -1,0 +1,20 @@
+{
+  "firebase": "resplendent-torch-320",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "bower.json",
+    "README.md",
+    "package.json",
+    "Brocfile.js",
+    "testem.json",
+    "**/.*",
+    "**/app",
+    "**/config",
+    "**/bower_components",
+    "**/public",
+    "**/tests",
+    "**/vendor",
+    "**/node_modules/**"
+  ]
+}

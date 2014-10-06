@@ -12,6 +12,9 @@
     "ember-load-initializers": "stefanpenner/ember-load-initializers#0.0.2",
     "ember-qunit": "0.1.8",
     "ember-qunit-notifications": "0.0.4",
-    "qunit": "~1.15.0"
+    "qunit": "~1.15.0",
+    "firebase": "~1.1.0",
+    "bootstrap": "~3.2.0",
+    "hello": "https://raw.githubusercontent.com/MrSwitch/hello.js/master/dist/hello.all.js"
   }
 }
