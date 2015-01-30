@@ -15,6 +15,7 @@
     "qunit": "~1.15.0",
     "firebase": "~1.1.0",
     "bootstrap": "~3.2.0",
-    "hello": "https://raw.githubusercontent.com/MrSwitch/hello.js/master/dist/hello.all.js"
+    "hello": "https://raw.githubusercontent.com/MrSwitch/hello.js/master/dist/hello.all.js",
+    "emberfire": "~1.3.2"
   }
 }
